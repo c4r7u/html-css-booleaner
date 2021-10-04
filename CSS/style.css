@@ -98,3 +98,30 @@ table {
 
 /* FOOTER */
 
+h5 {
+    color: rgb(190, 190, 190, 1); 
+}
+
+.page1 {
+    margin-top: 5px;
+    background-image: url(../img/monitor.jpg);
+    font-weight: normal;
+    line-height: 30px;
+    color: white;
+    width: 240px;
+    height: 150px;
+}
+
+.page2 {
+    margin-top: 5px;
+    background-image: url(../img/graph.jpg);
+    font-weight: normal;
+    line-height: 30px;
+    color: white;
+    width: 240px;
+    height: 150px;
+}
+
+.text {
+    margin-left: 10px;
+}
