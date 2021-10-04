@@ -5,8 +5,13 @@
     box-sizing: border-box;
 }
 
+/* CONTAINER */
+.container {
+    margin-left: 5px;
+}
+
 /* HEADER */
-img {
+#logo {
     width: 130px;
     margin-top: 30px;
     margin-left: 5px;
@@ -20,7 +25,75 @@ header {
 
 /* MAIN */
 
+h1 {
+    font-size: 50px;
+    margin-top: 10px;
+}
 
+
+.author {
+    color: rgb(190, 190, 190, 1);
+}
+
+#name {
+    color: rgb(149, 214, 242, 1);
+}
+
+.img1 {
+    height: 350px;
+    width: 55%;
+}
+
+.img2 {
+    height: 350px;
+    width: 42%;
+}
+
+.info-photo {
+    font-size: 10px;
+}
+
+
+p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+ul {
+    margin-left: 17px;
+    margin-bottom: 25px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.thead {
+    text-align: left;
+    background-color: rgb(32, 169, 229, 1);
+    color: white;
+}
+
+.td1 {
+    width: 25%;
+
+}
+
+.td2 {
+    width: 25%;
+}
+
+.td3 {
+    width: 50%;
+}
+
+.bg-blue {
+    background-color: rgb(177, 229, 242, 1);
+}
 
 
 /* FOOTER */
